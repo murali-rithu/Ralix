@@ -214,9 +214,9 @@ ol {
 }
 
 .logo img {
-    height: 48px;
+    height: 80px;
     width: auto;
-    max-width: 200px;
+    max-width: 300px;
     object-fit: contain;
     display: block;
 }
@@ -1378,7 +1378,7 @@ ol {
 }
 
 .footer-brand .logo img {
-    height: 44px;
+    height: 70px;
     margin-bottom: 12px;
 }
 
